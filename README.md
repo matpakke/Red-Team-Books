@@ -1,56 +1,57 @@
 # Red-Team-Books
 
 From: [http://redteams.net/bookshelf/](https://redteams.net/bookshelf/)
+
 Techie
 
-    Unauthorised Access: Physical Penetration Testing For IT Security Teams by Wil Allsopp.
-    Social Engineering: The Art of Human Hacking by Christopher Hadnagy
-    Practical Lock Picking: A Physical Penetration Tester's Training Guide by Deviant Ollam
-    The Art of Deception: Controlling the Human Element of Security by Kevin Mitnick
-    Hacking: The Art of Exploitation by Jon Erickson and Hacking Exposed by Stuart McClure and others.
-    Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning by Fyodor
-    The Shellcoder's Handbook: Discovering and Exploiting Security Holes by several authors
-    Snort IDS and IPS Toolkit (Jay Beale's Open Source Security) by several authors
-    Schneier on Security by Bruce Schneier
-    The Red Team Handbook (PDF) (http://usacac.army.mil/cac2/UFMCS/Repository/RT_Handbook_v6.pdf)
-    The Practice Of Network Security Monitoring, Richard Bejtlich
-    Metasploit, The Penetration Tester's Guide, David Kennedy
-    Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers, TJ O'Connor
-    Rtfm: Red Team Field Manual, Ben Clark
-    Open Source Intelligence Techniques - 3rd edition (2014) by Michael Bazzell.
-    Joint Doctrine Note 1-16, “Command Red Team.” by the U.S. Department of Defense. (http://www.dtic.mil/doctrine/notes/jdn1_16.pdf)
+    - Unauthorised Access: Physical Penetration Testing For IT Security Teams by Wil Allsopp.
+    - Social Engineering: The Art of Human Hacking by Christopher Hadnagy
+    - Practical Lock Picking: A Physical Penetration Tester's Training Guide by Deviant Ollam
+    - The Art of Deception: Controlling the Human Element of Security by Kevin Mitnick
+    - Hacking: The Art of Exploitation by Jon Erickson and Hacking Exposed by Stuart McClure and others.
+    - Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning by Fyodor
+    - The Shellcoder's Handbook: Discovering and Exploiting Security Holes by several authors
+    - Snort IDS and IPS Toolkit (Jay Beale's Open Source Security) by several authors
+    - Schneier on Security by Bruce Schneier
+    - The Red Team Handbook (PDF) (http://usacac.army.mil/cac2/UFMCS/Repository/RT_Handbook_v6.pdf)
+    - The Practice Of Network Security Monitoring, Richard Bejtlich
+    - Metasploit, The Penetration Tester's Guide, David Kennedy
+    - Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers, TJ O'Connor
+    - Rtfm: Red Team Field Manual, Ben Clark
+    - Open Source Intelligence Techniques - 3rd edition (2014) by Michael Bazzell.
+    - Joint Doctrine Note 1-16, “Command Red Team.” by the U.S. Department of Defense. (http://www.dtic.mil/doctrine/notes/jdn1_16.pdf)
 
 Non-Techie
 
-    The Mission, The Men, and Me: Lessons from a Former Delta Force Commander, Pete Blaber
-    The Art of War, Sun Tzu
-    The Book of Five Rings, Miyamoto Musashi
-    Inside Delta Force, Eric Haney
-    Human Intelligence, Counterterrorism, and National Leadership: A Practical Guide, Gary Berntsen
-    Maneuver Warfare Handbook (Westview Special Studies in Military Affairs), William S Lind
-    Silent Warfare: Understanding the World of Intelligence, Abram N. Shulsky
-    The Gift of Fear and Other Survival Signals that Protect Us From Violence, Gavin de Becker
-    Red Teams and Counterterrorism Training, Stephen Sloan
-    Escape the Wolf – Personal Security Handbook for the Traveling Professional, Clint Emerson
-    On Killing: The Psychological Cost of Learning to Kill in War and Society, Dave Grossman
-    Killer Elite: The Inside Story of America's Most Secret Special Operations Team, Michael Smith
-    Chosen Soldier, Dick Couch
-    KODO: Ancient Ways: Lessons in the Spiritual Life of the Warrior/Martial Artist , Kensho Furuya
-    Man in the Shadows: Inside the Middle East Crisis with a Director of Israel's Mossad, Efraim Halevy
-    The Essence of Aikido: Spiritual Teachings of Morihei Ueshiba, Morihei Ueshiba
-    Let My People Go Surfing: The Education of a Reluctant Businessman, Yvon Chouinard
-    Emergency: This Book Will Save Your Life, Neil Strauss
-    The Rock Warrior's Way: Mental Training for Climbers, Arno Ilgner
-    Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units, Aaron Cohen
-    Powerful Peace: A Navy SEAL’s Lessons on Peace from a Lifetime at War, Rob DuBois
-    The Red Circle, Brandon Webb
-    The Art of Intelligence: Lessons from a Life in the CIA's Clandestine Service, Henry A. Crumpton
-    The Unfettered Mind: Writings from a Zen Master to a Master Swordsman. By Takuan Soho.
-    Left of Bang: How the Marine Corps' Combat Hunter Program Can Save Your Life, by Patrick Van Horne.
-    Team of Teams, by Gen. Stanley McChrystal.
-    Red Team: How to Succeed By Thinking Like the Enemy, by Micah Zenko.
-    Extreme Ownership: How U.S. Navy SEALs Lead and Win, by Jocko Willink and Leif Babin.
-    About Face: The Odyssey of an American Warrior, Colonel David H. Hackworth.
+    - The Mission, The Men, and Me: Lessons from a Former Delta Force Commander, Pete Blaber
+    - The Art of War, Sun Tzu
+    - The Book of Five Rings, Miyamoto Musashi
+    - Inside Delta Force, Eric Haney
+    - Human Intelligence, Counterterrorism, and National Leadership: A Practical Guide, Gary Berntsen
+    - Maneuver Warfare Handbook (Westview Special Studies in Military Affairs), William S Lind
+    - Silent Warfare: Understanding the World of Intelligence, Abram N. Shulsky
+    - The Gift of Fear and Other Survival Signals that Protect Us From Violence, Gavin de Becker
+    - Red Teams and Counterterrorism Training, Stephen Sloan
+    - Escape the Wolf – Personal Security Handbook for the Traveling Professional, Clint Emerson
+    - On Killing: The Psychological Cost of Learning to Kill in War and Society, Dave Grossman
+    - Killer Elite: The Inside Story of America's Most Secret Special Operations Team, Michael Smith
+    - Chosen Soldier, Dick Couch
+    - KODO: Ancient Ways: Lessons in the Spiritual Life of the Warrior/Martial Artist , Kensho Furuya
+    - Man in the Shadows: Inside the Middle East Crisis with a Director of Israel's Mossad, Efraim Halevy
+    - The Essence of Aikido: Spiritual Teachings of Morihei Ueshiba, Morihei Ueshiba
+    - Let My People Go Surfing: The Education of a Reluctant Businessman, Yvon Chouinard
+    - Emergency: This Book Will Save Your Life, Neil Strauss
+    - The Rock Warrior's Way: Mental Training for Climbers, Arno Ilgner
+    - Brotherhood of Warriors: Behind Enemy Lines with a Commando in One of the World's Most Elite Counterterrorism Units, Aaron Cohen
+    - Powerful Peace: A Navy SEAL’s Lessons on Peace from a Lifetime at War, Rob DuBois
+    - The Red Circle, Brandon Webb
+    - The Art of Intelligence: Lessons from a Life in the CIA's Clandestine Service, Henry A. Crumpton
+    - The Unfettered Mind: Writings from a Zen Master to a Master Swordsman. By Takuan Soho.
+    - Left of Bang: How the Marine Corps' Combat Hunter Program Can Save Your Life, by Patrick Van Horne.
+    - Team of Teams, by Gen. Stanley McChrystal.
+    - Red Team: How to Succeed By Thinking Like the Enemy, by Micah Zenko.
+    - Extreme Ownership: How U.S. Navy SEALs Lead and Win, by Jocko Willink and Leif Babin.
+    - About Face: The Odyssey of an American Warrior, Colonel David H. Hackworth.
 
 From Andre Gironda via Sans advisory board mailing list post
 
